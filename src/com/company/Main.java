@@ -14,6 +14,7 @@ public class Main {
                         e++;
                     }
                 }
+                //jh
                 else{
                     for(int j = 3; j >= 0; j--){
                         a[i][j]=e;
